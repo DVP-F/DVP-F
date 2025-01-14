@@ -15,10 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an IT student in Norway trying to do fun stuff with tech, so you'll see very few public repos here, especially while i work on projects - partly because they won't all be things i want public or are references for myself/automation.
+I'm an IT student in Norway trying to do fun stuff with tech, so you'll see very few public repos here, especially while i work on projects - partly because they won't all be things i want public or are references for myself/automation
 
-My currently non-public skill roadmap is on [roadmap.sh](https://roadmap.sh/u/sillies). (Some of my top skills there vv)
+I work on a lot of different stuff with no real persistence. This is among the reasons there arent many public repos - other reasons include self doubt and related mental issues.
 
-Otherwise im 'just a silly lil guy' that you can contact via carnx@duck.com or any other website/sm you find
+Otherwise im '*jus a silly lil guy*' that you can contact via carnx@duck.com or any other website/sm you find
+
+A lil short list about me:
+1. He/They
+2. Goober
+3. Degen
+4. Faggot \:3
+5. Probably either interested in something youre interested in or able to talk about it
+6. Socially inept and emotionally mangled
+
+I have a skill roadmap on [roadmap.sh](https://roadmap.sh/u/sillies) btw (Some of my top skills there vv)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6786540a7dbe4fb02675304d?variant=dark&roadmaps=python%2Ccpp%2Clinux%2Ccyber-security)](https://roadmap.sh)
