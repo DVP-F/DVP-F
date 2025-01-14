@@ -23,6 +23,8 @@ Some other projects and stuff is only available on other sites such as Tumblr/Tw
 
 Otherwise im '*jus a silly lil guy*' that you can contact via carnx@duck.com or any other website/sm you find
 
+If you wanna chat casually with me fr me on Discord @ dvpf
+
 A lil short list about me:
 1. He/They
 2. Goober
