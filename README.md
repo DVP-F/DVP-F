@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an IT student in Norway trying to do fun stuff with tech, so you'll see very few public repos here, especially while i work on projects - partly because they won't all be things i want public or are references for myself/automation.
+
+My currently non-public skill roadmap is on [![roadmap.sh](https://roadmap.sh/card/tall/6786540a7dbe4fb02675304d?variant=dark&roadmaps=cyber-security%2Cpython%2Ccpp%2Clinux)](https://roadmap.sh). (These are some of my top skills there)
+Otherwise im 'just a silly lil guy' that you can contact via carnx@duck.com or any other website/sm you find
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6786540a7dbe4fb02675304d?variant=dark&roadmaps=cyber-security%2Cpython%2Ccpp%2Clinux" alt="roadmap.sh"/></a> 
