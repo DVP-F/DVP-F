@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm an __IT student__ in Norway trying to do fun stuff with tech, so you'll see very few public repos here, especially while i work on projects - partly because they won't all be things i want public or are references for myself/automation
 
-I work on a lot of different stuff with no real persistence. This is among the reasons there arent many public repos - other reasons include self doubt and related mental issues.
+I work on a lot of different stuff with **NO** real *persistence*. This is among the reasons there arent many public repos - other reasons include self doubt and related mental issues.
 
 Some other projects and stuff is only available on other sites such as Tumblr/Twitter/Discord and may have limited public visibility for various reasons --- (You should filter for tags on Tumblr, I do a lot of shit on sm's)
 
