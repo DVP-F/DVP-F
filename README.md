@@ -32,3 +32,5 @@ A lil short list about me:
 I have a skill roadmap on [roadmap.sh](https://roadmap.sh/u/sillies) btw (Some of my top skills there vv)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6786540a7dbe4fb02675304d?variant=dark&roadmaps=python%2Ccpp%2Clinux%2Ccyber-security)](https://roadmap.sh)
+
+### I'd like to specify that the age of repos here is highly relevant. If its old, its bad and ive probably come far from it even if its the most recent repo within a given lang/theme/project/schema/framework
