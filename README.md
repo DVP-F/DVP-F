@@ -19,7 +19,7 @@ I'm an __IT student__ in Norway trying to do fun stuff with tech, so you'll see 
 
 I work on a lot of different stuff with **NO** real *persistence*. This is among the reasons there arent many public repos - other reasons include self doubt and related mental issues.
 
-___Sometimes__ i take commissions - ive been doing some stuff for [Lmaos](https://github.com/LmaosDev)' member "Queen" recently_
+___Sometimes__ i take commissions - ive been doing some stuff for/with [Lmaos](https://github.com/LmaosDev)' member "Queen" recently_
 
 Some other projects and stuff is only available on other sites such as Tumblr/Twitter/Discord and may have limited public visibility for various reasons --- (You should filter for tags on Tumblr, I do a lot of shit on sm's)
 
@@ -35,8 +35,8 @@ A lil short list about me:
 5. Probably either interested in something youre interested in or able to talk about it
 6. Socially inept and emotionally mangled
 
-I have a skill roadmap on [roadmap.sh](https://roadmap.sh/u/sillies) btw (Some of my top skills there vv)
+I have a skill roadmap on [roadmap.sh](https://roadmap.sh/u/sillie) btw (Some of my top skills there vv)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6786540a7dbe4fb02675304d?variant=dark&roadmaps=python%2Ccpp%2Clinux%2Ccyber-security)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6786ac4a7dbe4fb0268de3a3?variant=dark&roadmaps=python%2Ccyber-security%2Clinux%2Ccpp)](https://roadmap.sh)
 
 ### I'd like to specify that the age of repos here is highly relevant. If its old, its bad and ive probably come far from it even if its the most recent repo within a given lang/theme/project/schema/framework
