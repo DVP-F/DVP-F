@@ -41,5 +41,4 @@ I have a skill roadmap on [roadmap.sh](https://roadmap.sh/u/sillie) btw (Some of
 
 ### I'd like to specify that the age of repos here is highly relevant. If its old, its bad and ive probably come far from it even if its the most recent repo within a given lang/theme/project/schema/framework
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DVP-F)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DVP-F&hide=issues&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
