@@ -40,3 +40,6 @@ I have a skill roadmap on [roadmap.sh](https://roadmap.sh/u/sillie) btw (Some of
 [![roadmap.sh](https://roadmap.sh/card/tall/6786ac4a7dbe4fb0268de3a3?variant=dark&roadmaps=python%2Ccyber-security%2Clinux%2Ccpp)](https://roadmap.sh)
 
 ### I'd like to specify that the age of repos here is highly relevant. If its old, its bad and ive probably come far from it even if its the most recent repo within a given lang/theme/project/schema/framework
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DVP-F)](https://github.com/anuraghazra/github-readme-stats)
+
