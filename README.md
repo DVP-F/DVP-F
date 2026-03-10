@@ -35,6 +35,8 @@ A lil short list about me:
 5. Probably either interested in something youre interested in or able to talk about it
 6. Socially inept and emotionally mangled
 
+### Contact me : [git.gay/DVP-F/CONTACT](https://git.gay/DVP-F/CONTACT)
+
 I have a skill roadmap on [roadmap.sh](https://roadmap.sh/u/sillie) btw (Some of my top skills there vv)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6786ac4a7dbe4fb0268de3a3?variant=dark&roadmaps=linux%2Ccyber-security%2Cpython%2Cshell-bash)](https://roadmap.sh)
