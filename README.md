@@ -23,24 +23,10 @@ ___Sometimes__ i take commissions - ive been doing some stuff for/with [Lmaos](h
 
 Some other projects and stuff is only available on other sites such as Tumblr/Twitter/Discord and may have limited public visibility for various reasons --- (You should filter for tags on Tumblr, I do a lot of shit on sm's)
 
-Otherwise im '*jus a silly lil guy*' that you can contact via carnx@duck.com or any other website/sm you find
-
-If you wanna chat casually with me fr me on Discord @ dvpf
-
-A lil short list about me:
-1. He/They
-2. Goober
-3. Degen
-4. Faggot \:3
-5. Probably either interested in something youre interested in or able to talk about it
-6. Socially inept and emotionally mangled
-
 ### Contact me : [git.gay/DVP-F/CONTACT](https://git.gay/DVP-F/CONTACT)
 
 I have a skill roadmap on [roadmap.sh](https://roadmap.sh/u/sillie) btw (Some of my top skills there vv)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6786ac4a7dbe4fb0268de3a3?variant=dark&roadmaps=linux%2Ccyber-security%2Cpython%2Cshell-bash)](https://roadmap.sh)
-
-### I'd like to specify that the age of repos here is highly relevant. If its old, its bad and ive probably come far from it even if its the most recent repo within a given lang/theme/project/schema/framework
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DVP-F&hide=issues&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
